@@ -1,32 +1,24 @@
 {
-	"name": "web-lb1",
-	"version": "1.0.0",
-	"description": "",
-	"main": "main.js",
-	"type": "module",
-	"scripts": {
-		"dev": "vite",
-		"build": "vite build",
-		"preview": "vite preview"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/Masya-syr/web-lb1.git"
-	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/Masya-syr/web-lb1/issues"
-	},
-	"homepage": "https://github.com/Masya-syr/web-lb1#readme",
-	"devDependencies": {
-		"@tailwindcss/vite": "^4.1.14",
-		"autoprefixer": "^10.4.21",
-		"postcss": "^8.5.6",
-		"sass": "^1.93.2",
-		"tailwindcss": "^4.1.14",
-		"vite": "^7.1.9",
-		"vite-plugin-handlebars": "^2.0.0"
-	}
+  "name": "web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.14",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "sass": "^1.93.2",
+    "tailwindcss": "^4.1.14",
+    "vite": "^6.3.6",
+    "vite-plugin-handlebars": "^2.0.0"
+  }
 }
